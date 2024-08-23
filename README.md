@@ -45,7 +45,7 @@ Each hack includes a step-by-step guide on how to reverse engineer the specific 
 Here are some valuable resources to get started with reverse engineering:
 
 - **📖 [Reverse Engineering for Beginners](https://www.reversing.kr)**
-- **🎥 [YouTube - Reverse Engineering Tutorials](https://www.youtube.com)**
+- **🎥 [YouTube - Reverse Engineering Tutorials](https://www.youtube.com/watch?v=1OdYAzk5fGE&list=PL1H1sBF1VAKUp9mElvX079qK3UNI2b3ek)**
 - **📘 [Hacking: The Art of Exploitation](https://www.amazon.com)**
 - **🔗 [Ghidra Documentation](https://ghidra-sre.org)**
 - **💻 [Hack The Box](https://www.hackthebox.com)**
