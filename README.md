@@ -44,11 +44,11 @@ Each hack includes a step-by-step guide on how to reverse engineer the specific 
 
 Here are some valuable resources to get started with reverse engineering:
 
-- **📖 [Reverse Engineering for Beginners](https://www.reversing.kr)**
+- **📖 [Reverse Engineering for Beginners]([https://www.reversing.kr](https://github.com/MojithaR/Hacker_Gunzo/blob/main/CheetSheets-Haxer/reversing-for-everyone.pdf))**
 - **🎥 [YouTube - Reverse Engineering Tutorials](https://www.youtube.com/watch?v=1OdYAzk5fGE&list=PL1H1sBF1VAKUp9mElvX079qK3UNI2b3ek)**
-- **📘 [Hacking: The Art of Exploitation](https://www.amazon.com)**
+- **📘 [Hacking: Reverse Engineering For Everyone!]([https://www.amazon.com](https://0xinfection.github.io/reversing/))**
 - **🔗 [Ghidra Documentation](https://ghidra-sre.org)**
-- **💻 [Hack The Box](https://www.hackthebox.com)**
+- **💻 [Pico CTF]([https://www.hackthebox.com](https://play.picoctf.org/practice?category=3&page=1))**
 
 ---
 
