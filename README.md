@@ -1,6 +1,3 @@
-Here's the README content formatted in Markdown:
-
-```markdown
 # **🔍 Hacker_Gunzo: Reverse Engineering Mastery**
 
 ![Reverse Engineering](https://github.com/MojithaR/Hacker_Gunzo/blob/main/assests/glen-carrie-aUggJb4-P8c-unsplash.jpg)
@@ -68,17 +65,3 @@ Feel free to explore, contribute, and use these resources to enhance your revers
 1. **Clone the repository**:  
    ```bash
    git clone https://github.com/MojithaR/Hacker_Gunzo.git
-   ```
-
-2. **Navigate through the challenges**:
-   - Read through the main README for an overview.
-   - Click on the hacks to dive into the specific challenges.
-
-3. **Start hacking**:
-   - Follow the instructions provided in each `.md` file.
-   - Learn, explore, and improve your reverse engineering skills!
-
----
-
-Happy hacking! 🕵️‍♂️🚀
-```
