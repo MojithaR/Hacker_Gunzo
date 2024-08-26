@@ -92,11 +92,11 @@ Below is a hypothetical graph showing the average time taken by participants to 
 
 ### Terminal Interaction
 
-![Terminal Screenshot](https://www.tutorialspoint.com/operating_system/images/command_prompt.jpg)
+![Terminal Screenshot](https://github.com/MojithaR/Hacker_Gunzo/assests/1image.png)
 
 ### Source Code
 
-![Source Code Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/JavaScript-logo.png/640px-JavaScript-logo.png)
+![Source Code Screenshot](https://github.com/MojithaR/Hacker_Gunzo/assests/2image.png)
 
 ---
 
