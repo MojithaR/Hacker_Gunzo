@@ -35,6 +35,8 @@ Explore the detailed hacks I've worked on. Click on each to navigate to the spec
 - [**Safe Opener**](./Safe_Opener.md)
 - [**Transformation**](./Transformation.md)
 - [**Unpackme.Py**](./Unpackme_Py.md)
+- [**Picker-1.md**](./Picker-1.md.md)
+- [**Vault_Door_Training_Challenge.md**](./Vault_Door_Training_Challenge.md)
 
 Each hack includes a step-by-step guide on how to reverse engineer the specific challenge.
 
