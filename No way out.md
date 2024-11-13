@@ -115,8 +115,9 @@ Here’s a visual representation of the steps and logic:
  ├── Implement Gravity Control (Key E/R)
  ├── Enable Mid-Air Jump (Remove Jump Conditions)
  └── Reach the Flag and Retrieve Flag Code
+```
 
-## **🎬 Demo (GIFs)**
+ **🎬 Demo (GIFs)**
 
 ### **Gravity Control with `E` and `R`**:
 ![Gravity Control](https://example.com/path-to-gravity-gif)
