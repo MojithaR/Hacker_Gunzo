@@ -117,13 +117,13 @@ Here’s a visual representation of the steps and logic:
  └── Reach the Flag and Retrieve Flag Code
 ```
 
- **🎬 Demo (GIFs)**
+ ## **🎬 Demo (GIFs)**
 
 ### **Gravity Control with `E` and `R`**:
-![Gravity Control](https://media.giphy.com/media/goKgmdgnBfbYhsZFy9/giphy.gif?cid=790b7611d1n2cuhmxcqnows76i3jhcyot92a6v028zqgxphu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Gravity Control](https://media.giphy.com/media/tY5m0YMXLYZi/giphy.gif?cid=790b7611p8lsppbgalljh6vk4x637afpcawqgjxr828nf3xm&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### **Unrestricted Jump Over Boundaries**:
-![Unrestricted Jump](https://example.com/path-to-jump-gif)
+![Unrestricted Jump](https://media.giphy.com/media/PIBlX6Uyb5gyY/giphy.gif?cid=ecf05e47v4thn1x886efki4soa2943612ge4jj2kcgdm24co&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
@@ -135,6 +135,7 @@ Here’s a visual representation of the steps and logic:
 | `Input.GetKeyDown` | Detects specific key presses for precise control |
 
 ---
+
 
 **Enjoy exploring the reverse engoo! Good luck, and happy hacking! (Mojitha😎)**
 
