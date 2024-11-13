@@ -1,6 +1,3 @@
-Here’s the entire note in markdown format as requested, saved as `No way out.md`.
-
-```markdown
 # **🕹️ No Way Out - PicoCTF Challenge Walkthrough**
 
 Welcome to the **No Way Out** challenge! In this PicoCTF challenge, our goal is to locate and retrieve the hidden flag from within a Windows game environment. We’ll utilize advanced tools to bypass the game’s restrictions, allowing us to reach otherwise inaccessible areas. Ready to break some walls? Let’s dive in! 🚀
@@ -118,31 +115,3 @@ Here’s a visual representation of the steps and logic:
  ├── Implement Gravity Control (Key E/R)
  ├── Enable Mid-Air Jump (Remove Jump Conditions)
  └── Reach the Flag and Retrieve Flag Code
-```
-
----
-
-## **🎬 Demo (GIFs)**
-
-1. **Gravity Control with `E` and `R`**:
-   ![Gravity Control](https://example.com/path-to-gravity-gif)
-
-2. **Unrestricted Jump Over Boundaries**:
-   ![Unrestricted Jump](https://example.com/path-to-jump-gif)
-
----
-
-## **🛠️ Useful Commands and Resources**
-
-| Tool | Description |
-| ---- | ----------- |
-| `DnSpy` | Used to inspect and modify the game’s code files |
-| `Input.GetKeyDown` | Detects specific key presses for precise control |
-
----
-
-**Enjoy exploring the code! Good luck, and happy hacking ---MojithaR! 😎**
-```
-
----
-
