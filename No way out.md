@@ -120,7 +120,7 @@ Here’s a visual representation of the steps and logic:
  **🎬 Demo (GIFs)**
 
 ### **Gravity Control with `E` and `R`**:
-![Gravity Control]([https://example.com/path-to-gravity-gif](https://media.giphy.com/media/goKgmdgnBfbYhsZFy9/giphy.gif?cid=790b7611d1n2cuhmxcqnows76i3jhcyot92a6v028zqgxphu&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+![Gravity Control](https://media.giphy.com/media/goKgmdgnBfbYhsZFy9/giphy.gif?cid=790b7611d1n2cuhmxcqnows76i3jhcyot92a6v028zqgxphu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### **Unrestricted Jump Over Boundaries**:
 ![Unrestricted Jump](https://example.com/path-to-jump-gif)
