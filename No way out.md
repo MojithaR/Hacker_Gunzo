@@ -115,3 +115,25 @@ Here’s a visual representation of the steps and logic:
  ├── Implement Gravity Control (Key E/R)
  ├── Enable Mid-Air Jump (Remove Jump Conditions)
  └── Reach the Flag and Retrieve Flag Code
+
+## **🎬 Demo (GIFs)**
+
+### **Gravity Control with `E` and `R`**:
+![Gravity Control](https://example.com/path-to-gravity-gif)
+
+### **Unrestricted Jump Over Boundaries**:
+![Unrestricted Jump](https://example.com/path-to-jump-gif)
+
+---
+
+## **🛠️ Useful Commands and Resources**
+
+| Tool            | Description                                      |
+|-----------------|--------------------------------------------------|
+| `DnSpy`         | Used to inspect and modify the game’s code files |
+| `Input.GetKeyDown` | Detects specific key presses for precise control |
+
+---
+
+**Enjoy exploring the reverse engoo! Good luck, and happy hacking! (Mojitha😎)**
+
