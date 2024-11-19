@@ -1,8 +1,10 @@
 # **🔍 Hacker_Gunzo: Reverse Engineering Mastery**
 
+Welcome to **Hacker_Gunzo**! This repository is dedicated to the art of **Reverse Engineering** 🕵️‍♂️, where we take software apart to understand, modify, and enhance it. Here, you'll find a collection of hacks, tools, and resources that I've worked on.
+
 ![Reverse Engineering](https://github.com/MojithaR/Hacker_Gunzo/blob/main/assests/glen-carrie-aUggJb4-P8c-unsplash.jpg)
 
-Welcome to **Hacker_Gunzo**! This repository is dedicated to the art of **Reverse Engineering** 🕵️‍♂️, where we take software apart to understand, modify, and enhance it. Here, you'll find a collection of hacks, tools, and resources that I've worked on.
+
 
 ---
 
